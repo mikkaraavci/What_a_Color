@@ -1,0 +1,1 @@
+global.kirmizican=3;

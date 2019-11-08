@@ -1,0 +1,2 @@
+global.yesilcan=3;
+

@@ -1,0 +1,1 @@
+global.canbuttonyellow=0;

@@ -1,0 +1,1 @@
+global.sarican=3;

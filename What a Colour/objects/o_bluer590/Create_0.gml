@@ -1,0 +1,1 @@
+global.mavican=3;
