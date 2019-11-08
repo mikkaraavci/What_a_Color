@@ -1,11 +1,10 @@
 # What a Color
-<p> Space Shooter Game<p>
-<p> Mobile Touch Control<p>
-<p> UI Panel <p>
-<p>Sound Effect <p>
-<p>Android Apk <p>
-<p>Google Addmob <p>
+<p> Puzzle Game <p>
+<p> Level Design<p>
+<p> Smart Game Mechanics <p>
+
   
+
 
 # Project Display Image
 
